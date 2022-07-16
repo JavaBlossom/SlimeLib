@@ -1,2 +1,3 @@
 # SlimeLib
-A library ...
+
+<img src="https://i.imgur.com/SflZgpX.png" width="300">
